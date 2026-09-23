@@ -1,4 +1,4 @@
-# Single-Cell RNA-seq Atlas of Healthy Breast Tissue — Reproduction
+# Single-Cell RNA-seq Atlas of Healthy Breast Tissue Analysis
 
 A from-scratch reproduction of the single-cell analysis pipeline from 
 **Bhat-Nakshatri et al., 2021, *Cell Reports Medicine*** — *"A single-cell atlas of 
